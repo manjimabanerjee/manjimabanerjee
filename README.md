@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello, I am Manjima Banerjee :wave::grin:
 
 <!--
 **manjimabanerjee/manjimabanerjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
