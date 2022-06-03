@@ -40,3 +40,24 @@ Here are some ideas to get you started:
 </tr>
 </table>
 </p>
+
+---
+
+<h1>Skills :woman_technologist:</h1>
+<div align="center">
+<img src="https://custom-icon-badges.herokuapp.com/badge/C-00b5f9?style=for-the-badge&logo=C&logoColor=white&title=black">
+<img src="https://custom-icon-badges.herokuapp.com/badge/CPP-78C257?style=for-the-badge&logo=CPP&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/Java-002acf?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/Python-FF0000?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/Jupiter-f98500?style=for-the-badge&logo=Jupyter&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/R-e000f9?style=for-the-badge&logo=r&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/HTML5-363636?style=for-the-badge&logo=html&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/CSS3-2D2D2D?style=for-the-badge&logo=css&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/Bootstrap-257B88?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/JS-a7a5a2?style=for-the-badge&logo=js&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/React JS-78C257?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/AWS-FF0000?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/ML-00b5f9?style=for-the-badge&logo=ml&logoColor=white&title=black">
+<img src="https://custom-icon-badges.herokuapp.com/badge/Maven-002acf?style=for-the-badge&logo=maven&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/S3-f98500?style=for-the-badge&logo=s3&logoColor=white">
+</div>
